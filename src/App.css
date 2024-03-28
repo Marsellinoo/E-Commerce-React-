@@ -9,15 +9,15 @@
   min-height: 100vh;
   font-family: "Poppins", sans-serif;
   background-image: url(./Component/Login_Asset/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 .login-image-container img{
 
 }
 .wrapper-login {
   width: 450px;
-  background: purple;
+  backdrop-filter: blur(3px);
+  background: transparent;
+  border: 2px solid rgba(255, 255, 255, .4);
   color: white;
   border-radius: 20px;
   padding: 30px 40px;
