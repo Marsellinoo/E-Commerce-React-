@@ -7,7 +7,6 @@ const Login = () => {
   return (
     <div className="login-section-container">
       <div className='login-image-container'>
-        <img src={img} alt="" />
         <div className='wrapper-login'>
           <form action=''>
             <h1>Login</h1>

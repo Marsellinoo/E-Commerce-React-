@@ -8,6 +8,9 @@
   align-items: center;
   min-height: 100vh;
   font-family: "Poppins", sans-serif;
+  background-image: url(./Component/Login_Asset/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .login-image-container img{
 
